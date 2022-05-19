@@ -1,6 +1,6 @@
 Hello, I'm Nate.
 I am studying in Electronics Engineering Technology, with a concentration in Computers and Networks.
-I have experience with Verilog, C & Bash, but want to learn more.
+I have experience with Verilog, C, Bash & Cisco IOS but want to learn more.
 
 I'm interested in hardware related fields such as network infrastructure, embedded systems and circuit design.
 <!---
